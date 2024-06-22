@@ -1,3 +1,4 @@
+Lorem ipsum dolor sit amet 
  # Mastering Python: An In-Depth Guide
 -----------------------------------------------
  Python is a versatile and powerful programming language known for its readability and straightforward syntax. It is a favorite among developers in diverse fields, from web development 
